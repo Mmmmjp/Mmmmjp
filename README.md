@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello I am Miwa!🙂‍↕️
 
-<!--
-**Mmmmjp/Mmmmjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m currently studying to enter the IT industry and learning various programming languages and technologies.
 
-Here are some ideas to get you started:
+## ๋࣭ ⭑⚝About me
+-  I’m studied  **HTML, CSS, and JavaScript**.
+-  Currently learning **Java** and **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- HTML, CSS, JavaScript
+- Java (in progress)
+
+## 🚀 Projects
+- [Portfolio Website](index.html)
+- [Number Guessing Game](https://github.com/yourusername/number-guessing-game)
+
+## 💪Goals
+
+ - Improve my skills in web development and Java programming. 
+ - Build more interactive and complex projects. 
+ - Continue learning and gwoing in the IT field. 
+
+## 📫Contact 
+
+Feel free to reach out to me via:
+
+- [Email] (mailto:programming.study.miwa@gmail.com)
+
