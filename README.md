@@ -1,28 +1,23 @@
-# Hello I am Miwa!🙂‍↕️
+# Hello, I am Miwa!🙂‍↕️
 
 Welcome to my GitHub profile! I’m currently studying to enter the IT industry and learning various programming languages and technologies.
 
-## ๋࣭ ⭑⚝About me
--  I’m studied  **HTML, CSS, and JavaScript**.
--  Currently learning **Java** and **Python**.
+## 🖥️ Programming Languages I’m Learning 
+- HTML, CSS
+- javaScript 
+- Java 
+    - Servlets
+    - JSP (JavaServer Pages)
+- SQL 
+- Python 
 
-## 🔧 Tools & Technologies
-- HTML, CSS, JavaScript
-- Java (in progress)
+## 🎨Other skills  
+- Adobe Photoshop  
+- Adobe Illustrator
 
-## 🚀 Projects
-- [Portfolio Website](index.html)
-- [Number Guessing Game](https://github.com/yourusername/number-guessing-game)
+## 🚀Projects
+I’m actively working on projects to solidify my learning. Many are inspired by tutorials or textbooks, but I always strive to add original features and design elements, especially through CSS.
+If you have any advice or suggestions for improving my projects, I’d love to hear from you! Feel free to share your thoughts or submit a pull request.
 
-## 💪Goals
-
- - Improve my skills in web development and Java programming. 
- - Build more interactive and complex projects. 
- - Continue learning and gwoing in the IT field. 
-
-## 📫Contact 
-
-Feel free to reach out to me via:
-
-- [Email] (mailto:programming.study.miwa@gmail.com)
-
+## 💬 A Quick Note 
+Thank you for taking the time to visit my profile! I’m committed to growing as a developer, and I’m excited to continue creating both study-based and original projects.
